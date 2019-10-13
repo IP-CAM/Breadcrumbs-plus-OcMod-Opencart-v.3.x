@@ -1,12 +1,12 @@
 # Breadcrumbs+
 
 ## Description
-The Breadcrumbs+ extension is for CMS Opencart 3.x. It displays the full categories path in breadcrumb trails for products opened from modules like Featured, Latest, Bestseller etc. Also allows to use product links with the full path in search and compare pages.
+The Breadcrumbs+ extension is for CMS Opencart 3.x. It allows to display the full categories path for product breadcrumb trails. Also, the extension allows to add JSON-LD structured data markup for product breadcrumb trails to categorize the information from the page in search results, allows to remove links from the last breadcrumb items and set bold font for them.
 
 Please feel free to contact me through the <a href="https://www.opencart.com/index.php?route=support/seller&amp;35022" target="_blank">Get Support</a> form or comments on Opencart Marketplace and Homepage (see links below).
 
 ## Features
-* Allows to display the full product navigation path with its parent categories. Applies for the next pages and modules:
+* Allows to display the full categories path for product breadcrumb trails. Applies for the following pages and modules:
   * Bestsellers
   * Compare
   * Featured
@@ -16,7 +16,7 @@ Please feel free to contact me through the <a href="https://www.opencart.com/ind
   * Specials
 * Allows to enable/disable link for the last breadcrumb items
 * Allows to enable/disable bold font for the last breadcrumbs items
-* Allows to add JSON-LD structured data markup promoted by Schema.org vocabulary (used by world's largest search engines to detect and recognize breadcrumb trails)
+* Allows to add structured data markup (JSON-LD) promoted by Schema.org vocabulary (used by world's largest search engines to categorize the information from the page in search results)
 * OCMOD - doesn't change OpenCart files
 
 ## Change log
@@ -44,8 +44,8 @@ Please feel free to contact me through the <a href="https://www.opencart.com/ind
 * Admin > Dashboard > [Developer Settings] > [Refresh]
 
 ## Live demo
-* [Admin Demo - Settings](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/module/breadcrumbs)
-* [Admin Demo - Product list](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=catalog/product)
+* [Admin](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/module/breadcrumbs)
+* [Front](http://ocmod.freevar.com/oc3020/a)
 
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35022)

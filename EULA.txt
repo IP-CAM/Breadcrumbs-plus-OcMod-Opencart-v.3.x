@@ -1,6 +1,6 @@
 End-User License Agreement (EULA) of Breadcrumbs+
 
-Last updated: 2019.01.31
+Last updated: 2019.10.12
 
 This End-User License Agreement ("EULA") is a legal agreement between the end
 user (the "Licensee" or "you") and Andrii Burkatskyi (the "Licensor")
