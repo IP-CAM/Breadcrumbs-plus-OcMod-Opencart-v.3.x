@@ -41,7 +41,7 @@ Please feel free to contact me through the form "GET SUPPORT" or comments.
 * Admin > Dashboard > [Developer Settings] > [Refresh]
 
 [b]Live demo[/b]
-* [url=http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/module/sdm]Admin[/url]
+* [url=http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/module/breadcrumbs]Admin[/url]
 * [url=http://ocmod.freevar.com/oc3020/a]Front[/url]
 
 [b]Links[/b]
