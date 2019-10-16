@@ -3,7 +3,7 @@
 ## Description
 The Breadcrumbs+ extension is for CMS Opencart 3.x. It allows to display the full categories path for product breadcrumb trails. Also, the extension allows to add JSON-LD structured data markup for product breadcrumb trails to categorize the information from the page in search results, allows to remove links from the last breadcrumb items and set bold font for them.
 
-Please feel free to contact me through the <a href="https://www.opencart.com/index.php?route=support/seller&amp;35022" target="_blank">Get Support</a> form or comments on Opencart Marketplace and Homepage (see links below).
+Please feel free to contact me through the «Get Support» form or comments on Opencart Marketplace and through the contact form or comments on Homepage (see links below).
 
 ## Features
 * Allows to display the full categories path for product breadcrumb trails. Applies for the following pages and modules:
