@@ -2,7 +2,7 @@
 
 /**
  * The Breadcrumbs+ extension is for CMS Opencart 3.x.
- * It allows to filter products by category and manufacturer.
+ * It allows to display the full categories path for product breadcrumb trails.
  *
  * @author       Andrii Burkatskyi aka underr underr.ua@gmail.com
  * @copyright    Copyright (c) 2019 Andrii Burkatskyi
