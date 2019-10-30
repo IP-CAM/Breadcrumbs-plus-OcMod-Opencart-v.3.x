@@ -1,12 +1,12 @@
 # Breadcrumbs+
 
 ## Description
-The Breadcrumbs+ extension is for CMS Opencart 3.x. It allows to display the full categories path for product breadcrumb trails. Also, the extension allows to add JSON-LD structured data markup for product breadcrumb trails to categorize the information from the page in search results, allows to remove links from the last breadcrumb items and set bold font for them.
+The Breadcrumbs+ extension is for CMS Opencart 3.x. It allows to getting the full path of product categories in breadcrumb navigation. Also, the extension allows to add JSON-LD structured data markup for product breadcrumb trails to categorize the information from the page in search results, allows to remove links from the last breadcrumb items and set bold font for them.
 
 Please feel free to contact me through the «Get Support» form or comments on Opencart Marketplace and through the contact form or comments on Homepage (see links below).
 
 ## Features
-* Allows to display the full categories path for product breadcrumb trails. Applies for the following pages and modules:
+* Allows to display the full path of product categories in the breadcrumb trail. Applies for the following pages and modules:
   * Bestsellers
   * Compare
   * Featured
@@ -14,12 +14,16 @@ Please feel free to contact me through the «Get Support» form or comments on O
   * Manufacturers
   * Search
   * Specials
+* Allows to display longest or shortest path for products belong to multiple categories
 * Allows to enable/disable link for the last breadcrumb items
 * Allows to enable/disable bold font for the last breadcrumbs items
 * Allows to add structured data markup (JSON-LD) promoted by Schema.org vocabulary (used by world's largest search engines to categorize the information from the page in search results)
 * OCMOD - doesn't change OpenCart files
 
 ## Change log
+* v1.1 (2019.10.30):
+  * Added compatibility with the [SDI+]() extension
+  * Minor code improvements
 * v1.0 (2019.10.12):
   * First release
 

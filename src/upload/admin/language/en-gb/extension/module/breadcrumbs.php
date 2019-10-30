@@ -2,13 +2,13 @@
 
 /**
  * The Breadcrumbs+ extension is for CMS Opencart 3.x.
- * It allows to display the full categories path for product breadcrumb trails.
+ * It allows to getting the full path of product categories in breadcrumb navigation.
  *
  * @author       Andrii Burkatskyi aka underr underr.ua@gmail.com
  * @copyright    Copyright (c) 2019 Andrii Burkatskyi
  * @license      https://raw.githubusercontent.com/underr-ua/ocmod3-breadcrumbs-plus/master/EULA.txt End-User License Agreement
  *
- * @version      1.0
+ * @version      1.1
  *
  * @see          https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35022
  * @see          https://underr.space/notes/projects/project-008.html
@@ -51,7 +51,7 @@ $_['text_path_long'] = 'Longest path';
 $_['text_path_short'] = 'Shortest path';
 
 // Breadcrumbs help entries
-$_['help_path'] = 'Path type if product is in several categories';
+$_['help_path'] = 'Path type if product is in multiple categories';
 $_['help_path_options'] = 'Product pages and modules';
 $_['help_sdata'] = 'Add JSON-LD structured data markup for breadcrumb trails';
 $_['help_nolink'] = 'Remove links from the lasts breadcrumb trail items';
