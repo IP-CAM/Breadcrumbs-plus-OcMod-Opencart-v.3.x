@@ -49,5 +49,5 @@ $_['help_path'] = 'Breadcrumb path types';
 $_['help_search_page'] = 'Allow to update breadcrumbs on search page';
 $_['help_manufacturer_page'] = 'Allow to update breadcrumbs on manufacturer page';
 $_['help_structured_data'] = 'Add JSON-LD structured data markup for product breadcrumbs';
-$_['help_nolink'] = 'Remove links from the last items of breadcrumbs';
-$_['help_bold'] = 'Bold font for the last items of breadcrumbs';
+$_['help_nolink'] = 'Remove links from the last breadcrumb items';
+$_['help_bold'] = 'Bold font for the last breadcrumb items';
