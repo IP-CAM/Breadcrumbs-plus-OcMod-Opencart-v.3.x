@@ -1,17 +1,15 @@
-# Breadcrumbs+
+# Breadcrumbs+ v2.0
 #
 # The Breadcrumbs+ extension is for CMS Opencart 3.x.
-# It allows to getting the full path of product categories in breadcrumb navigation.
+# The module allows to manage product breadcrumbs.
 #
-# @author       Andrii Burkatskyi aka underr underr.ua@gmail.com
-# @copyright    Copyright (c) 2019 Andrii Burkatskyi
-# @license      https://raw.githubusercontent.com/underr-ua/ocmod3-breadcrumbs-plus/master/EULA.txt End-User License Agreement
+# <https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35022>
+# <https://underr.space/notes/projects/project-008.html>
+# <https://github.com/underr-ua/ocmod3-breadcrumbs-plus>
 #
-# @version      1.1
+# This file is subject to the End Use License Agreement (EULA) <https://raw.githubusercontent.com/underr-ua/ocmod3-breadcrumbs-plus/master/EULA.txt>
 #
-# @see          https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35022
-# @see          https://underr.space/notes/projects/project-008.html
-# @see          https://github.com/underr-ua/ocmod3-breadcrumbs-plus
+# Copyright (c) 2019 Andrii Burkatskyi aka underr
 
 zip=$(shell basename `pwd`).ocmod.zip
 
