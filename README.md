@@ -17,7 +17,7 @@ Please feel free to contact me through the «Get Support» form or comments on O
 
 ## Change log
 * v2.0 (2019.12.19):
-    * Transfered to the Opencart Event System
+    * Transferred to the Opencart Event System
 * v1.1 (2019.10.30):
     * Minor code improvements
 * v1.0 (2019.10.12):
